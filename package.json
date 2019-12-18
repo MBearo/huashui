@@ -3,6 +3,7 @@
 	"displayName": "huashui",
 	"description": "shang ban dang ran yao hua shui",
 	"version": "0.1.0",
+  "publisher":"MBear",
 	"engines": {
 		"vscode": "^1.41.0"
 	},
