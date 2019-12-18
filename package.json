@@ -4,6 +4,10 @@
 	"description": "shang ban dang ran yao hua shui",
 	"version": "0.4.0",
 	"publisher": "MBear",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBearo/huashui.git"
+  },
 	"engines": {
 		"vscode": "^1.41.0"
 	},
